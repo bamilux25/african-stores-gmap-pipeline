@@ -24,7 +24,7 @@ from sqlalchemy import create_engine
 # -----------------------------------------------------------------------------
 
 # -- Google Places API --
-API_KEY = 'AIzaSyCw-coGIt9rpdupvAmO4mAJlCGvXQyfwao'                          # Replace before running
+API_KEY = 'xxxxx'                          # Replace before running
 PLACES_URL = 'https://places.googleapis.com/v1/places:searchText'
 HEADERS = {
     'X-Goog-Api-Key': API_KEY,
