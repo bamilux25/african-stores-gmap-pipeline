@@ -37,7 +37,7 @@ HEADERS = {
 SERVER   = 'elite247-prod.database.windows.net'
 DATABASE = 'Data_Scrapping_DB'
 USERNAME = 'a.shittu'
-PASSWORD = 'Bamidele@052'                       # Replace before running
+PASSWORD = 'XXXXXXX'                       # Replace before running
 
 # -- Pipeline settings --
 SEARCH_PREFIX  = 'African store'                       # Prepended to each city name
